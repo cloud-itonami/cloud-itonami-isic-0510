@@ -1,0 +1,11 @@
+[{:itonami.blueprint/id "cloud-itonami-isic-0510"
+  :itonami.blueprint/name "Hard Coal Mining Operations Coordination"
+  :itonami.blueprint/isic-08 "0510"
+  :itonami.blueprint/domain :mining/hard-coal
+  :itonami.blueprint/license "AGPL-3.0-or-later"
+  :itonami.blueprint/social-impact [:operational-transparency :labor-safety :evidence-based-decisions]
+  :itonami.blueprint/governor :coal-mining-governor
+  :itonami.blueprint/robotics false
+  :itonami.blueprint/required-technologies [:identity :forms :dmn :bpmn :audit-ledger]
+  :itonami.blueprint/status :public-oss
+  :db/id -1}]
