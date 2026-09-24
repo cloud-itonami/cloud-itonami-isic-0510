@@ -1,5 +1,5 @@
 (ns coalops.advisor-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [coalops.advisor :as advisor]
             [coalops.store :as store]))
 
